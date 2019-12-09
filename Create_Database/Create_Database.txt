@@ -1,0 +1,4 @@
+1. Make a database with the name of cse311project
+2. Import cse311project.sql into the database "cse311project".
+3. Make a database with the name of loginsystem
+4. Import loginsystem.sql into the database "loginsystem"

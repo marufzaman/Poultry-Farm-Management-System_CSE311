@@ -1,0 +1,115 @@
+body{
+	/*background: url(HomeBackGround.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 1366px 768px;*/
+	text-align: center;
+	background-repeat: no-repeat;
+	background-color: ghostwhite;
+	
+}
+
+#HeadLine h1 { text-align: center;
+			   font-family: Matura MT Script Capitals;
+			   font-size: 60px;
+			   color: red; 
+			   text-shadow: 5px 5px 5px black;}
+
+#HeadLine h2 { text-align: center;
+			   font-family: Matura MT Script Capitals;
+			   font-size: 60px;
+			   color: red;
+			   text-shadow: 5px 5px 5px black; }
+
+
+#button ul ul{
+	margin: 0px;
+	padding: 0px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#button ul{
+
+ 	list-style: none;
+ 	margin: 20px;
+	box-shadow: 10px 10px 5px #888888;
+ }
+
+#button ul li {
+
+ 	background-color: #4C7BC1;
+ 	border: 1px solid black;
+ 	width: 300px;
+ 	height: 35px;
+ 	line-height: 35px;
+ 	text-align: center;
+ 	float: left;
+ 	position: relative;
+ 	box-shadow: 10px 10px 5px #888888;
+
+ }
+
+#button ul li a {
+
+	text-decoration: none;
+	color: white;
+	display: block;
+	box-shadow: 10px 10px 5px #888888;
+	position: center;
+}
+
+#button ul li a:hover {
+
+	background-color: green;
+
+}
+
+
+#button ul ul {
+	position: absolute;
+	display: none;
+}
+
+#button ul li:hover> ul{
+
+	display: block;
+}
+
+#welcomeDiv {
+    background-color: #e8e8e8;
+    float: left;
+    width: 90%;
+    margin-right: 20%;
+    padding: 15px;
+    margin-left: 5%;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+footer {
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 15px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.tblone {
+	width:100%;
+	border:1px solid #fff;
+	margin:20px 0
+}
+.tblone td {
+	padding:5px 10px;
+	text-align:center;
+}
+table.tblone tr:nth-child(2n+1) {
+	background:#fff;
+	height:30px;
+}
+
+table.tblone tr:nth-child(2n) {
+	background:#f1f1f1;
+	height:30px;
+}

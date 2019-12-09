@@ -1,0 +1,75 @@
+body{
+	
+	background: url(AboutUsBackGround.jpg);
+	background-repeat: no-repeat;
+	background-size: 1050px 950px;
+	
+}
+
+
+#AboutUs  p{
+
+	text-align: left;
+	font-family: time new roman;
+	font-style: italic;	
+	font-size: 20px;
+}
+
+#AboutUs h1 {
+
+	text-align: left;
+	font-family: Brush Script MT;
+	font-style: italic;
+	color: black;
+	font-size: 60px;
+	text-shadow: 4px 4px 4px red;
+}
+
+#button ul ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+ #button ul{
+
+ 	list-style: none;
+ 	margin: 20px;
+ }
+
+ #button ul li {
+
+ 	background-color: #4C7BC1;
+ 	border: 1px solid black;
+ 	width: 170px;
+ 	height: 35px;
+ 	line-height: 35px;
+ 	text-align: center;
+ 	float: left;
+ 	position: relative;
+
+ }
+
+#button ul li a {
+
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+#button ul li a:hover {
+
+	background-color: green;
+
+}
+
+
+#button ul ul {
+	position: absolute;
+	display: none;
+}
+
+#button ul li:hover> ul{
+
+	display: block;
+}
+
