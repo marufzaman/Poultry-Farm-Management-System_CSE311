@@ -16,4 +16,4 @@ This is a management system for a Poultry farm where necessary farm business inf
 ### Overview Features:
 	- Clean design with raw CSS and HTML.
 
-### For Detail read [ProjectReport.pdf](https://github.com/marufzaman/Poultry-Farm-Management-System_CSE311/blob/master/ProjectReport.pdf)
+### For more detail read: [ProjectReport.pdf](https://github.com/marufzaman/Poultry-Farm-Management-System_CSE311/blob/master/ProjectReport.pdf)
